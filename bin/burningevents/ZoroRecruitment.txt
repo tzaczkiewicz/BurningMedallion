@@ -1,0 +1,12 @@
+1
+9
+Canis
+Canis:*Aren't you Zoro, the commoner's hero? What do you have to do with the Order of the Great World's assassins?
+Zoro:*Assassins? I heard this town was conspiring to betray us in the war!
+Canis:*...That's actually true, but you have the wrong side. The church has been silently poisoning our best generals, and using the Great Light to hide the evidence.
+Zoro:*Wait, the church in this town?
+Canis:*Likely the entire Order. We're here to notify the dignitaries of the area, but the Order seems to have realized we got suspicious and decided to stop being subtle.
+Canis:*If the Order has this much force to throw around, the problem is worse than we thought. We need to take this all the way to the King, but we have to live through this first. I have no reason to fight you, so could you leave us be?
+Zoro:*Leave you alone? If your story is true, you need all the help you can get. Your way is more my style anyway, so from now on, count me as an ally.
+Canis:*Thank you, having a hero in our group is more than I could have hoped for.
+Zoro:*Alright, let's repel this assault and get to saving the country!
